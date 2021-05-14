@@ -9,4 +9,4 @@ By the way, in a coin toss, do you prefer head or tail?
 
 Resources:
 1) Google
-2) https://cryptii.com/
+2) https://cryptii.com/ (keeping things simple, answers are around the default settings)
